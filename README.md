@@ -1,1 +1,1 @@
-# This is a simple web automation project with Page Object Model example.
+# Selenium WebDriver, Java, Maven, TestNG 
