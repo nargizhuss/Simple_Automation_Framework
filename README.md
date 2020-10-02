@@ -1,1 +1,1 @@
-# This is a simple web automation project with Page Object Model example. The advantage of the model is that it reduces code duplication and improves test maintenance. The project includes Java Constructor, Encapsulation (a mechanism of binding code and data together in a single unit), Inheritance and etc.
+# This is a simple web automation project with Page Object Model example.
