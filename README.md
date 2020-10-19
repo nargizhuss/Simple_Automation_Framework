@@ -1,1 +1,1 @@
-# Selenium WebDriver, Java, Maven, TestNG 
+# Selenium Web driver (POM, Java, Maven TestNG)
